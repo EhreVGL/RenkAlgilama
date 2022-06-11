@@ -45,7 +45,7 @@ pip install numpy
 
 ## Eklenecek veya Duzenlenecek Kısımlar
 
--Renk algılama methodları ile renklerin maskeleri daha gerçekçi hale getirilecek.
+- Renk algılama methodları ile renklerin maskeleri daha gerçekçi hale getirilecek.
 
 ## Youtube Linki
 
